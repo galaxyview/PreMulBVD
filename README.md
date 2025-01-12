@@ -14,3 +14,8 @@ You can use the script `graphcodebert_dataconclusion.py` to preprocess the AST a
 (3) The scripts `graphcodebert_train4onlyast.py` and `graphcodebert_train4onlycode.py` are in the application to the RQ2 ablation experiments, which can be trained using only AST and pseudo-code, respectively.
 
 (4) The script `graphcodebert_validate.py` is used to test the model.
+
+### Environment
+IDA Pro: version 7.3
+
+pytorch: 2.1.1+cu121
