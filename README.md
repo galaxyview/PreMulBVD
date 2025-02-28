@@ -16,6 +16,6 @@ You can use the script `graphcodebert_dataconclusion.py` to preprocess the AST a
 (4) The script `graphcodebert_validate.py` is used to test the model.
 
 ### Environment
-IDA Pro: version 7.3
+IDA Pro: version 8.3
 
 pytorch: 2.1.1+cu121
