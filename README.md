@@ -2,6 +2,7 @@
 
 ### 1.Extract AST and pseudo-code from binary code (Decomplier)
 You can use script `ASTExtraction/extract_all_ast.py` to extract AST and pseudo-code from binary code by IDA Pro. (You need to set path options in the script.)
+
 If you want to use Ghidra as decompiler, you can use script `ASTExtraction/Ghidra_decompiler.py`
 
 ### 2.Packaging all generated databases into input data for the model (Parser)
